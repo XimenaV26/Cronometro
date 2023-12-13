@@ -16,4 +16,4 @@
 - HTML
 - CSS 
 
-Ver el [Cronometro](https://main--willowy-peony-64ec9d.netlify.app)
+Ver el [Cronometro](cronometro-ximenav26.netlify.app)
