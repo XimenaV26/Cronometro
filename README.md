@@ -16,4 +16,4 @@
 - HTML
 - CSS 
 
-Ver el [Cronometro](cronometro-ximenav26.netlify.app)
+Ver el [Cronometro](https://cronometro-ximenav26.netlify.app)
